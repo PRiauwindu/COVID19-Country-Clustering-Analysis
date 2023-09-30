@@ -9,3 +9,6 @@ The research outcomes serve as a valuable resource for public health professiona
 
 **Keywords:**
 COVID-19 pandemic, country clustering, epidemiological analysis, pandemic dynamics, public health, global preparedness, government response, data analysis, pandemic management, crisis response.
+
+### Replicating and Adopting the Analysis
+If you find this analysis valuable and wish to use or adapt it for your own projects, feel free to do so! To replicate the analysis, clone this GitHub repository to your local machine. In the spirit of open collaboration, we kindly ask that you acknowledge and cite the original work in your own publications or projects. Include the title of the original work, your name as the author, the repository URL, the publication year, and any relevant identifiers such as a DOI. Your citation helps recognize the effort and time put into creating this analysis. Thank you for your interest and happy analyzing!
